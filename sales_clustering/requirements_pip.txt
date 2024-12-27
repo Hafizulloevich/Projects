@@ -1,0 +1,13 @@
+
+pandas
+numpy
+seaborn
+matplotlib
+plotly
+folium
+scikit-learn
+scipy
+imbalanced-learn
+python-pptx
+xgboost
+geopy
