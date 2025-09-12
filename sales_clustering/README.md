@@ -19,7 +19,7 @@ This project explores customer data: cleaning it, visualizing patterns, and usin
 
 ### Option 1: Google Colab (runs the notebook live in your browser)
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hafizulloevich/Projects/blob/main/Final_Exam_GBI.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Hafizulloevich/Projects/sales_clustering/Final_Exam_GBI.ipynb)
 
 
 ### Option 2: Binder (runs the notebook live in your browser)
