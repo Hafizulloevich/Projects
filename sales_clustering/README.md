@@ -18,7 +18,8 @@ This project explores customer data: cleaning it, visualizing patterns, and usin
 ##  Try it without installing anything
 
 ### Option 1: Binder (runs the notebook live in your browser)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Hafizulloevich/Projects/HEAD?urlpath=lab/tree/Projects/sales_clustering/Final_Exam_GBI.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Hafizulloevich/Projects/master?labpath=sales_clustering%2FFinal_Exam_GBI.ipynb)]
+
 
 ### Option 2: nbviewer (view rendered notebook, including Plotly interactivity)
 [View on nbviewer](https://nbviewer.org/github/Hafizulloevich/Projects/blob/master/Projects/sales_clustering/Final_Exam_GBI.ipynb)
